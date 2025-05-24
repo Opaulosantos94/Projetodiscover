@@ -39,7 +39,8 @@ body * /*configurações globais do body*/
 /*parte do conteúdo da página, ou container onde tudo vai ficar dentro*/
 #container
 {
-width: 360px;
+width: 100%;
+max-width: 588px;
 margin: 56px auto 0px;
 }
 /*switch - botão para trocar de dark para light*/
